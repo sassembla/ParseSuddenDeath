@@ -1,0 +1,15 @@
+
+.ensime
+
+
+
+.ensime_lucene/*
+
+.gradle/*
+build/*
+
+src/.DS_Store
+
+target/.DS_Store
+
+.DS_Store
